@@ -4,7 +4,7 @@
   "authors": [
     "jkulak <jakub.kulak@gmail.com>"
   ],
-  "description": "This is a fullstack application",
+  "description": "This is a VUE app consuming RIOT API",
   "main": "index.html",
   "license": "MIT",
   "private": true,
@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "bootstrap-sass": "^3.3.7",
-    "html5-boilerplate": "^5.3.0"
+    "html5-boilerplate": "^5.3.0",
+    "vue": "^1.0.26"
   }
 }
